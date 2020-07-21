@@ -1,0 +1,4 @@
+﻿Plan：25minutes
+Do：30minutes
+Check：字符串连接用concat，但是忽略了concat方法不修改原字符串，没有用一个新的值接收concat后的字符串，花费了5min。写完后才安装依赖，比较慢，花费了3min。
+Act：多练习使用JS的一些字符串方法，熟练掌握。在写代码前，先进行依赖的安装。
